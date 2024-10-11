@@ -1,0 +1,38 @@
+{
+	"major": {
+		"youtube": {
+			"Watch YouTube Video #1": "070624",
+			"Major Games #1": "070624",
+			"Watch YouTube Shorts #3": "070624",
+			"Watch YouTube Shorts #4": "159390",
+			"Watch YouTube Shorts #6": "241086"
+		},
+		"answer": {
+			"choice_1": 10,
+			"choice_2": 3,
+			"choice_3": 12,
+			"choice_4": 1
+		}
+	},
+	"blum": {
+		"How to Analyze Crypto?": "VALUE",
+		"Forks Explained": "GO GET",
+		"Secure your Crypto!": "BEST PROJECT EVER",
+		"Navigating Crypto": "HEYBLUM",
+		"What are Telegram Mini Apps?": "CRYPTOBLUM",
+		"Say No to Rug Pull!": "SUPERBLUM",
+		"Liquidity Pools Guide": "BLUMERSSS",
+		"What Are AMMs?": "CRYPTOSMART",
+		"$2.5M+ DOGS Airdrop": "HAPPYDOGS",
+		"Doxxing? What's that?": "NODOXXING",
+		"Pre-Market Trading?": "WOWBLUM",
+		"Play track \u0026 type track name": "Blum - Big City Life",
+		"How to Memecoin?": "MEMEBLUM",
+		"Token Burning: How & Why?": "ONFIRE",
+		"Bitcoin Rainbow Chart?": "SOBLUM"
+	},
+	"timefarm": {
+		"answer": "21/12/2012"
+	},
+	"expires": 1728691200
+}
