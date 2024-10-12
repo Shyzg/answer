@@ -9,7 +9,7 @@
 		},
 		"answer": {
 			"choice_1": 10,
-			"choice_2": 3,
+			"choice_2": 14,
 			"choice_3": 12,
 			"choice_4": 1
 		}
@@ -29,10 +29,11 @@
 		"Play track \u0026 type track name": "Blum - Big City Life",
 		"How to Memecoin?": "MEMEBLUM",
 		"Token Burning: How & Why?": "ONFIRE",
-		"Bitcoin Rainbow Chart?": "SOBLUM"
+		"Bitcoin Rainbow Chart?": "SOBLUM",
+		"Crypto Terms. Part 1": "BLUMEXPLORER"
 	},
 	"timefarm": {
 		"answer": "21/12/2012"
 	},
-	"expires": 1728691200
+	"expires": 1728777600
 }
