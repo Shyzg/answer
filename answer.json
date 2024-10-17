@@ -1,7 +1,6 @@
 {
 	"tomarket": {
-		"answer": "11,2,3",
-		"expires": 1729267200
+		"answer": "11,2,3"
 	},
 	"major": {
 		"youtube": {
@@ -38,8 +37,6 @@
 		"How to trade Perps?": "CRYPTOFAN",
 		"Sharding Explained:": "BLUMTASTIC"
 	},
-	"timefarm": {
-		"answer": "14/03/2016"
-	},
+	"timefarm": "14/03/2016",
 	"expires": 1729209600
 }
