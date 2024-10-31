@@ -2,36 +2,42 @@
 	"tomarket": {
 		"answer": "10,12,2"
 	},
-	"major": {
+	"seed": {
 		"youtube": {
-			"Major Games #1": "070624",
-			"Watch YouTube Video #1": "070624",
-			"Watch YouTube Shorts #3": "070624",
-			"Watch YouTube Shorts #4": "159390",
-			"Watch YouTube Shorts #6": "241086"
+			"Learn Blockchain in 3 mins": "Blockchain",
+			"Crypto vs Blockchain?": "Cryptocurrency",
+			"Hot ve Cold Wallet?": "Wallet",
+			"What is Airdrop?": "Airdrop",
+			"Coin vs Token?": "TOKENS",
+			"What is Ton?": "Ton"
 		}
 	},
 	"blum": {
-		"How to Analyze Crypto?": "VALUE",
-		"Forks Explained": "GO GET",
-		"Secure your Crypto!": "BEST PROJECT EVER",
-		"Navigating Crypto": "HEYBLUM",
-		"What are Telegram Mini Apps?": "CRYPTOBLUM",
-		"Say No to Rug Pull!": "SUPERBLUM",
-		"Liquidity Pools Guide": "BLUMERSSS",
-		"What Are AMMs?": "CRYPTOSMART",
-		"$2.5M+ DOGS Airdrop": "HAPPYDOGS",
-		"Doxxing? What's that?": "NODOXXING",
-		"Pre-Market Trading?": "WOWBLUM",
-		"Play track \u0026 type track name": "Blum - Big City Life",
-		"How to Memecoin?": "MEMEBLUM",
-		"Token Burning: How & Why?": "ONFIRE",
-		"Bitcoin Rainbow Chart?": "SOBLUM",
-		"Crypto Terms. Part 1": "BLUMEXPLORER",
-		"How to trade Perps?": "CRYPTOFAN",
-		"Sharding Explained:": "BLUMTASTIC",
-		"DeFi Explained": "BLUMFORCE",
-		"How To Find Altcoins?": "ULTRABLUM"
+		"youtube": {
+			"How to Analyze Crypto?": "VALUE",
+			"Forks Explained": "GO GET",
+			"Secure your Crypto!": "BEST PROJECT EVER",
+			"Navigating Crypto": "HEYBLUM",
+			"What are Telegram Mini Apps?": "CRYPTOBLUM",
+			"Say No to Rug Pull!": "SUPERBLUM",
+			"Liquidity Pools Guide": "BLUMERSSS",
+			"What Are AMMs?": "CRYPTOSMART",
+			"$2.5M+ DOGS Airdrop": "HAPPYDOGS",
+			"Doxxing? What's that?": "NODOXXING",
+			"Pre-Market Trading?": "WOWBLUM",
+			"Play track \u0026 type track name": "Blum - Big City Life",
+			"How to Memecoin?": "MEMEBLUM",
+			"Token Burning: How & Why?": "ONFIRE",
+			"Bitcoin Rainbow Chart?": "SOBLUM",
+			"Crypto Terms. Part 1": "BLUMEXPLORER",
+			"How to trade Perps?": "CRYPTOFAN",
+			"Sharding Explained:": "BLUMTASTIC",
+			"DeFi Explained": "BLUMFORCE",
+			"How To Find Altcoins?": "ULTRABLUM"
+		}
 	},
-	"timefarm": "15/05/2020"
+	"timefarm": {
+		"daily": "",
+		"youtube": {}
+	}
 }
