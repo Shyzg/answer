@@ -6,11 +6,16 @@
 		"youtube": {
 			"Learn Blockchain in 3 mins": "Blockchain",
 			"Crypto vs Blockchain?": "Cryptocurrency",
-			"Hot vs Cold Wallet?": "Wallet",
-			"What is Airdrop?": "Airdrop",
-			"Coin vs Token?": "TOKENS",
-			"What is TON?": "Ton",
-			"News affecting the BTC price": "BTCTOTHEMOON"
+			"#3 Hot vs Cold Wallet": "Wallet",
+			"#4 What is Airdrop?": "Airdrop",
+			"#5 Coin vs Token": "TOKENS",
+			"#6 What is TON?": "Ton",
+			"#7 News affecting BTC price": "BTCTOTHEMOON",
+			"#8 On-chain vs Off-chain": "TRANSACTION",
+			"#9 CEX vs DEX": "OKXEED",
+			"#10 Bullish and Bearish": "BullRun",
+			"#11 Pre-market Explained": "BRESEED",
+			"#12 What is NFT?": "GETGEMS"
 		}
 	},
 	"blum": {
@@ -95,5 +100,5 @@
 				"reward": 100
 			}
 		]
-    	}
+    }
 }
