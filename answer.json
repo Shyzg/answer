@@ -1,6 +1,6 @@
 {
 	"tomarket": {
-		"youtube": "7,3,5"
+		"youtube": "2,11,5"
 	},
 	"seed": {
 		"youtube": {
@@ -27,7 +27,15 @@
 			"#21 How to spot a Rug Pull?": "NOHANDSNORUG"
 		}
 	},
-	"spell_wallet": "🧚 🧿 🧙‍ 🦄",
+	"spell_wallet": {
+		"code": "",
+		"answer": {
+			"INTRODUCTION TO BLOCKCHAIN": [[0],[0],[1],[1],[0,1,2,3]],
+			"WHAT IS MNEMONIC PHRASE": [[1],[2],[2],[0],[1]],
+			"SMART CONTRACTS BASICS": [[1],[1],[1],[1],[1]],
+			"UNDERSTANDING CRYPTO WALLETS": [[2],[0],[1],[0],[1]]
+		}
+	},
 	"blum": {
 		"youtube": {
 			"How to Analyze Crypto?": "VALUE",
@@ -58,5 +66,4 @@
 			"What is On-chain Analysis?": "BLUMEXTRA"
 		}
 	}
-    }
 }
